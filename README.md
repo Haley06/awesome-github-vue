@@ -10,9 +10,10 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [服务端](#服务端) 
 - [辅助工具](#辅助工具) 
 - [应用实例](#应用实例) 
-- [Demo示例](#Demo示例) 
+- [Demo示例](#Demo示例)
+- 回家 
 
-## UI组件 
+## UI组件
 
 - [element](https://github.com/ElemeFE/element) ★13489 - 饿了么出品的Vue2的web UI工具套件 
 - [Vux](https://github.com/airyland/vux) ★8133 - 基于Vue和WeUI的组件库 
